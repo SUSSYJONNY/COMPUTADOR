@@ -1,0 +1,46 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+    color: rgb(249, 216, 255);
+}
+.note{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;  
+}
+
+.div_speed_img,.div_volume_img{
+    width: 150px;
+    border-radius: 100px;
+}
+.div_speed_img1,.div_volume_img1{
+    width: 200px;
+    border-radius: 100px;
+}
+
+
+#speed,#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.rodape{
+    font-size: 15px;
+    color: rgb(155, 47, 255);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background:white ;
+}
